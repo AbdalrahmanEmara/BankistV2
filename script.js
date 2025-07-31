@@ -296,3 +296,4 @@ const slider = function () {
     }
   });
 };
+slider();
